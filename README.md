@@ -1,2 +1,2 @@
 # dev
-mi primer repositorio en jithub
+mi primer repositorio en github
