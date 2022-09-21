@@ -1,0 +1,25 @@
+.titulo1{
+    color: rgb(8, 8, 8);
+    font-family: 'Lato';
+}
+
+.titulo2{
+    color: rgb(255, 0, 0);
+    font-family:'Lato';
+    font-weight: 700;
+}
+
+.parrafo{
+    color: black;
+    font-family: 'Roboto';
+
+}
+.texto1{
+    font-family: 'Roboto';
+    font-weight: 600;
+}
+
+.texto2{
+    font-family: 'Roboto';
+    font-weight: 600 ;
+}
