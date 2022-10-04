@@ -1,0 +1,43 @@
+form{
+    margin: auto ;
+    max-width: 1000px;
+    background-color: white;
+    box-shadow: 1px 1px 12px black ;
+    margin-top: 6em;
+    border-radius: 12px ;
+    padding: 2em 2em 2em;
+    
+    
+}
+
+input, textarea {
+
+    width: 100%;
+    margin: .6em 0 .6m 0;
+    padding: .8em;
+    max-width: 500px;
+    border: none;
+    border: 1px solid red ;
+
+
+
+}
+
+textarea{
+    max-height: 375px;
+    min-height: 375px;
+
+
+}
+.boton{
+    background-color: red;
+    color: #fff;
+
+}
+.boton:hover{
+    color: blue ;
+    
+}
+label{
+    width: 100%;
+}
