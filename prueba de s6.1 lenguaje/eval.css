@@ -1,0 +1,21 @@
+h1{
+    border: 2px solid blue ;
+    padding: 30px;
+    padding-left: 10px ;
+
+
+
+
+}
+
+h2{
+    border: 2px solid #aaa ;
+    padding-left: 5px;
+
+}
+
+.lista{
+    border: 2px solid #0f0 ;
+    margin-left: 10px;
+    margin-right: 10px;
+}
