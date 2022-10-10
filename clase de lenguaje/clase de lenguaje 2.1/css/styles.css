@@ -1,0 +1,34 @@
+.titulo,h3{
+    color: blue;
+
+}
+
+div.contenedor{
+    border: 2px dotted black;
+}
+
+div.contenedor p{
+
+    color: rgb(255, 0, 0);
+
+}
+div.contenedor>p{
+    text-align: center; 
+    color: green ; 
+}
+
+body>div{
+    background-color: yellow;
+}
+
+div.contenedor>div>p{
+    text-decoration: underline ;
+}
+.titulo{
+    border: 3px dotted purple;
+
+}
+[href="#"]{
+    text-decoration: none;
+    color: green ;
+}

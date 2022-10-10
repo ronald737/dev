@@ -1,0 +1,38 @@
+
+form{
+    margin: 100px;
+    max-width: 1000px;
+    background-color: white;
+    box-shadow: 20px 30px 30px black;
+    /*horizontal, vertical, difuminado y color */
+    /* margin-top: 6em; */
+    border-radius: 50px;
+    padding: 3em;
+    border:2px solid red;
+}
+img{
+    border-radius: 20px;
+}
+
+label{
+    width: 100%;
+}
+input,textarea{
+    width: 100%;
+    margin: 0.7em 0 0.7em 0;
+    padding: 1em;
+    border: none;
+    border: 0.8px solid red;
+    /Grosor, el tipo de linea, color/
+}
+
+textarea{
+    max-height: 100px;
+    min-height: 200px;
+}
+.boton{
+    background-color: green;
+}
+.boton:hover{
+    color: white;
+}
