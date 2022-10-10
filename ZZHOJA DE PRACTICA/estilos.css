@@ -9,6 +9,8 @@ form{
     border-radius: 50px;
     padding: 3em;
     border:2px solid red;
+
+   
 }
 img{
     border-radius: 20px;
@@ -23,7 +25,7 @@ input,textarea{
     padding: 1em;
     border: none;
     border: 0.8px solid red;
-    /Grosor, el tipo de linea, color/
+    /* /Grosor, el tipo de linea, color/ */
 }
 
 textarea{
