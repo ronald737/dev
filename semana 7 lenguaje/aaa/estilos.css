@@ -1,8 +1,4 @@
-*{
-    margin: 0 ;
-    padding: 0 ;
-    box-sizing: border-box ;
-}
+
 
 .header{
     height: 400px;
@@ -33,5 +29,5 @@ header>h2.title#title{
     border: inherit;
     padding: inherit;
     /*text-align: initial;
-    color: initial;*/
-} 
+    color: initial;
+} */
